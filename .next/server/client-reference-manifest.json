@@ -1,0 +1,358 @@
+{
+  "ssrModuleMapping": {
+    "(app-client)/./node_modules/next/dist/client/components/error-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/app-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/layout-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/image-component.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image-component.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/components/dojo-logo.png": {
+      "*": {
+        "id": "(sc_client)/./app/components/dojo-logo.png",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/components/LogoutButton.jsx": {
+      "*": {
+        "id": "(sc_client)/./app/components/LogoutButton.jsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/(dashboard)/error.jsx": {
+      "*": {
+        "id": "(sc_client)/./app/(dashboard)/error.jsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/(auth)/login/page.jsx": {
+      "*": {
+        "id": "(sc_client)/./app/(auth)/login/page.jsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/(auth)/signup/page.jsx": {
+      "*": {
+        "id": "(sc_client)/./app/(auth)/signup/page.jsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    }
+  },
+  "edgeSSRModuleMapping": {},
+  "clientModules": {
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/node_modules/next/dist/client/components/error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/node_modules/next/dist/esm/client/components/error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/node_modules/next/dist/client/components/app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/node_modules/next/dist/esm/client/components/app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/node_modules/next/dist/client/components/layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/node_modules/next/dist/esm/client/components/layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/node_modules/next/dist/client/components/render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/node_modules/next/dist/client/link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/(dashboard)/tickets/not-found:static/chunks/app/(dashboard)/tickets/not-found.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/node_modules/next/dist/esm/client/link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/(dashboard)/tickets/not-found:static/chunks/app/(dashboard)/tickets/not-found.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/node_modules/next/dist/shared/lib/app-router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "*",
+      "chunks": [
+        "app/(auth)/layout:static/chunks/app/(auth)/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/node_modules/next/dist/esm/shared/lib/app-router-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
+      "name": "*",
+      "chunks": [
+        "app/(auth)/layout:static/chunks/app/(auth)/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/node_modules/next/dist/shared/lib/hooks-client-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "*",
+      "chunks": [
+        "app/(auth)/layout:static/chunks/app/(auth)/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/node_modules/next/dist/esm/shared/lib/hooks-client-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "*",
+      "chunks": [
+        "app/(auth)/layout:static/chunks/app/(auth)/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/node_modules/next/dist/shared/lib/server-inserted-html.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "*",
+      "chunks": [
+        "app/(auth)/layout:static/chunks/app/(auth)/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/node_modules/next/dist/esm/shared/lib/server-inserted-html.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "*",
+      "chunks": [
+        "app/(auth)/layout:static/chunks/app/(auth)/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "*",
+      "chunks": [
+        "app/(auth)/layout:static/chunks/app/(auth)/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/node_modules/next/dist/esm/shared/lib/lazy-dynamic/dynamic-no-ssr.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-no-ssr.js",
+      "name": "*",
+      "chunks": [
+        "app/(auth)/layout:static/chunks/app/(auth)/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/node_modules/next/dist/client/image-component.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image-component.js",
+      "name": "*",
+      "chunks": [
+        "app/(dashboard)/layout:static/chunks/app/(dashboard)/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/node_modules/next/dist/esm/client/image-component.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image-component.js",
+      "name": "*",
+      "chunks": [
+        "app/(dashboard)/layout:static/chunks/app/(dashboard)/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/app/components/dojo-logo.png": {
+      "id": "(app-client)/./app/components/dojo-logo.png",
+      "name": "*",
+      "chunks": [
+        "app/(dashboard)/layout:static/chunks/app/(dashboard)/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/app/components/LogoutButton.jsx": {
+      "id": "(app-client)/./app/components/LogoutButton.jsx",
+      "name": "*",
+      "chunks": [
+        "app/(dashboard)/layout:static/chunks/app/(dashboard)/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/app/(dashboard)/error.jsx": {
+      "id": "(app-client)/./app/(dashboard)/error.jsx",
+      "name": "*",
+      "chunks": [
+        "app/(dashboard)/error:static/chunks/app/(dashboard)/error.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/app/(auth)/login/page.jsx": {
+      "id": "(app-client)/./app/(auth)/login/page.jsx",
+      "name": "*",
+      "chunks": [
+        "app/(auth)/login/page:static/chunks/app/(auth)/login/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/app/(auth)/signup/page.jsx": {
+      "id": "(app-client)/./app/(auth)/signup/page.jsx",
+      "name": "*",
+      "chunks": [
+        "app/(auth)/signup/page:static/chunks/app/(auth)/signup/page.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/node_modules/next/font/google/target.css?{\"path\":\"app/layout.jsx\",\"import\":\"Rubik\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"rubik\"}": {
+      "id": "(app-client)/./node_modules/next/font/google/target.css?{\"path\":\"app/layout.jsx\",\"import\":\"Rubik\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"rubik\"}",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/app/globals.css": {
+      "id": "(app-client)/./app/globals.css",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    }
+  },
+  "entryCSSFiles": {
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/app/(dashboard)/page": [],
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/app/(dashboard)/layout": [],
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/app/(dashboard)/error": [],
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/app/(dashboard)/not-found": [],
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/app/(auth)/layout": [],
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/app/(auth)/login/page": [],
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/app/(dashboard)/loading": [],
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/app/(auth)/signup/page": [],
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/app/(dashboard)/tickets/page": [],
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/app/(dashboard)/tickets/not-found": [],
+    "/Users/joji/Documents/CODE/NextJS/netninja-supabase-next-auth-crud/app/layout": [
+      "static/css/app/layout.css"
+    ]
+  }
+}
